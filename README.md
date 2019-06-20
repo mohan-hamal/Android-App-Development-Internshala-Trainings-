@@ -1,2 +1,2 @@
 # Android-App-Development-Internshala-Trainings-
-This is my code for the apps I make during the Internshala Training course
+These are the projects(Android apps) I make during the Internshala Training- Android App Development
